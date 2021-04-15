@@ -1,1 +1,1 @@
-# scraping-detik-dan-idrrates
+# scrapingdetik
